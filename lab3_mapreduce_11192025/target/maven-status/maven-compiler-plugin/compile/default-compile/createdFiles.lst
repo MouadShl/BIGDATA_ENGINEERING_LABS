@@ -1,0 +1,6 @@
+SimpleWordCount$TokenizerMapper.class
+WordCount.class
+SimpleWordCount.class
+TokenizerMapper.class
+IntSumReducer.class
+SimpleWordCount$IntSumReducer.class
